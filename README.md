@@ -1,2 +1,2 @@
-# Bnorbis.github.io
-O Projeto Prático da disciplina de Programação Web Front-end se refere ao desenvolvimento de uma aplicação web, utilizando todos os conhecimentos práticos abordados durante a disciplina até o momento.
+# ODS3
+Projeto em HTML e CSS referente a aula da professora Rosangela de Fátima Pereira Marquesone.
